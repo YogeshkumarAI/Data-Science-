@@ -1,0 +1,1 @@
+. Python code aur CSV dataset upload karne ke liye Add file → Upload files par jao. Agar website par upload karte waqt folder structure preserve karna ho, toh apne computer par pehle poora Sales-Data-Analyzer folder bana kar uske andar ki files select karke upload karo. Zaroorat pade toh files ko correct folder path mein upload karna verify kar lena.
